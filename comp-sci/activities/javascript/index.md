@@ -72,15 +72,17 @@ layout: page
 
 [4.3 Return Statements](4-3.html)
 
-<!-- ### Part 5 - Object-Oriented Programming
+### Part 5 - Object-Oriented Programming
+
+[5.1 JavaScript Objects](5-1.html)
 
 
-### Platforms and Tools
-### NPM
+<!-- ### Platforms and Tools -->
+<!-- ### NPM -->
 
-### Clientside JavaScript
+<!-- ### Clientside JavaScript -->
 
-### Serverside JavaScript (Node.js)
+<!-- ### Serverside JavaScript (Node.js) -->
 
 
-### Popular Libraries and Frameworks -->
+<!-- ### Popular Libraries and Frameworks -->
