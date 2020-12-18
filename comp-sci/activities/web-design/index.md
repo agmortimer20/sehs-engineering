@@ -17,3 +17,5 @@ layout: page
 [1.2 Text Elements](1-2.html)
 
 [1.3 Multimedia Elements](1-3.html)
+
+[1.4 Hyperlinks](1-4.html)
