@@ -1,0 +1,10 @@
+---
+---
+
+@import "overrides";
+
+.post-excerpt {
+    @include themed() {
+        color: t('foreground-color');
+    }
+}
