@@ -2,7 +2,9 @@ title: SEHS Engineering
 email: amortimer@sehs.net
 description: >-
   Course content for engineering. Learn computer science, electrical engineering, design, etc.
-source: "./src"
 url: "http://sehs.dev"
 github_username:  agmortimer20
 theme: jekyll-dash
+
+exclude:
+  - firebase.json
