@@ -104,26 +104,21 @@ A list that uses symbols for each item. Unordered lists do not use numbering.
         <li>Tito Ortiz (21-12)</li>
     </ol>
 
-    
+    <h3>007 Movies</h3>
 
     <ol>
-        <li>007 Movies
-            <ol>
-                <li>Goldeneye</li>
-                <li>Casino Royale</li>
-                <li>Moonraker</li>
-            </ol>
-        </li>
-
-        <li>Video Games
-            <ol>
-                <li>Final Fantasy VII</li>
-                <li>Age of Empires II</li>
-                <li>Resident Evil</li>
-            </ol>
-        </li>
+        <li>Goldeneye</li>
+        <li>Casino Royale</li>
+        <li>Moonraker</li>
     </ol>
 
+    <h3>Video Games</h3>
+
+    <ol>
+        <li>Final Fantasy VII</li>
+        <li>Age of Empires II</li>
+        <li>Resident Evil</li>
+    </ol>
 </body>
 </html>
 {% endhighlight %}
