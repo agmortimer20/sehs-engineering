@@ -22,6 +22,8 @@ layout: page
 
 [1.5 Lists](activities/1-5.html)
 
+[1.6 Tables](activities/1-6.html)
+
 <hr>
 
 ## Challenges
