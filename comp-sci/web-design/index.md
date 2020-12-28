@@ -20,6 +20,8 @@ layout: page
 
 [1.4 Hyperlinks](activities/1-4.html)
 
+[1.5 Lists](activities/1-5.html)
+
 <hr>
 
 ## Challenges
