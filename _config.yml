@@ -6,5 +6,5 @@ url: "http://sehs.dev"
 github_username:  agmortimer20
 theme: jekyll-dash
 
-exclude:
-  - firebase.json
+# exclude:
+#   - 
