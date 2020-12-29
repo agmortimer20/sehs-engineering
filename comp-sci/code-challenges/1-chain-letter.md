@@ -24,4 +24,4 @@ A classic form of spam in the early days of the internet are known as chain lett
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-1-chainletter-sample.png" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-1-chainletter-sample.png)

@@ -26,4 +26,4 @@ Unit conversion programs are great programs to practice elementary programming c
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-3-mile-to-kilometer-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-3-mile-to-kilometer-sample.gif)

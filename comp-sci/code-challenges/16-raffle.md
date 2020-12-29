@@ -24,4 +24,4 @@ A raffle is a simple contest where many individuals can submit one or more entri
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-16-raffle-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-16-raffle-sample.gif)

@@ -38,4 +38,4 @@ The shopping cart app is similar to any application that allows a user to create
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-18-shopping-cart.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-18-shopping-cart.gif)

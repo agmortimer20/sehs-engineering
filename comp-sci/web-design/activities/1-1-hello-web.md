@@ -57,11 +57,11 @@ Your new workspace will generate some starting files that are necessary to run a
 
 Click either the *Run* button or the *Refresh* button the see changes made to your web page. It should look something like this:
 
-![Sample webpage](/assets/img/activities/webpage-sample-repl.png)
+![Sample webpage](/assets/img/web-design/activities/webpage-sample-repl.png)
 
 Click the *open in a new tab* button to see your webpage in an actual browser tab. Notice the content on the page, as well as the text in the browser tab.
 
-![Sample webpage](/assets/img/activities/webpage-sample-browser.png)
+![Sample webpage](/assets/img/web-design/activities/webpage-sample-browser.png)
 
 ## Tips, Tricks, and Reflection
 

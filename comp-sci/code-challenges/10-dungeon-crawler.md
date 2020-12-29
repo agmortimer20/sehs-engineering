@@ -28,4 +28,4 @@ In your introductory programming course, you learned how to make a lightweight *
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-10-dungeon-crawler-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-10-dungeon-crawler-sample.gif)

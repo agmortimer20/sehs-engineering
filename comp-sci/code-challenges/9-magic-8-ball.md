@@ -31,4 +31,4 @@ The Magic 8-Ball is a fortune-telling toy. You ask the 8-ball a question, shake 
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-9-magic-8-ball.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-9-magic-8-ball.gif)

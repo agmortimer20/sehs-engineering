@@ -26,4 +26,4 @@ FizzBuzz is a classic elementary programming challenge. The program outputs 100 
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-12-fizzbuzz.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-12-fizzbuzz.gif)

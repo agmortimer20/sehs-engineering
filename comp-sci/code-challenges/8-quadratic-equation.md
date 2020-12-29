@@ -29,4 +29,4 @@ The quadratic equation is a fundamental algebra formula for discovering roots of
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-8-quadratic-equation-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-8-quadratic-equation-sample.gif)

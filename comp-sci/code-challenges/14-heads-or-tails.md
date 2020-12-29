@@ -34,7 +34,9 @@ Heads or tails is a simple game where someone flips a coin and hides how it land
 ### Sample Output
 
 #### Without Iteration
-<img src="/assets/img/challenges/challenge-14-heads-tails-no-loop.gif" alt="sample output" title="sample output">
+
+![Sample Output](/assets/img/code-challenges/challenge-14-heads-tails-no-loop.gif)
 
 #### With Iteration
-<img src="/assets/img/challenges/challenge-14-heads-tails-with-loop.gif" alt="sample output" title="sample output">
+
+![Sample Output](/assets/img/code-challenges/challenge-14-heads-tails-with-loop.gif)

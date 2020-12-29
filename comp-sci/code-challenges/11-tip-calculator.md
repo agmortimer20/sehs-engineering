@@ -41,4 +41,4 @@ Let's be honest, you're probably a cheapskate. *You* need a program that allows 
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-11-tip-calculator.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-11-tip-calculator.gif)

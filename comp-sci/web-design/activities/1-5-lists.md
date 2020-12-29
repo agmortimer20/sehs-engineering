@@ -37,7 +37,7 @@ A list where items are numbered in order. For every list item, the number of the
 </ol>
 ```
 
-![Ordered List Example](/assets/img/activities/web-design/ordered-list.png)
+![Ordered List Example](/assets/img/web-design/activities/ordered-list-example.png)
 
 ----
 
@@ -53,7 +53,7 @@ A list that uses symbols for each item. Unordered lists do not use numbering.
 </ul>
 ```
 
-![Ordered List Example](/assets/img/activities/web-design/unordered-list.png)
+![Ordered List Example](/assets/img/web-design/activities/unordered-list-example.png)
 
 ----
 
@@ -125,7 +125,7 @@ A list that uses symbols for each item. Unordered lists do not use numbering.
 
 ### Sample Web Page
 
-![Sample Webpage](/assets/img/activities/web-design/webpage-lists-sample.png)
+![Sample Webpage](/assets/img/web-design/activities/webpage-lists-sample.png)
 
 ## Tips, Tricks, and Reflection
 

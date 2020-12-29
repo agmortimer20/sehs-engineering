@@ -36,7 +36,7 @@ Horizontal rule and line break are not actually text elements, but they're impor
 
 In web design, it's common to see placeholder text that looks like fake Latin. This is called *lorem ipsum* text, and it's very popular when demoing a webpage or app text. In Repl, you can type the word **lorem**, followed by the **tab key**. You will see lorem ipsum text in this and many other activities. Don't bother writing it out by hand, let your editor generate it for you.
 
-![Sample lorem ipsum](/assets/img/activities/lorem.gif)
+![Sample lorem ipsum](/assets/img/web-design/activities/lorem.gif)
 
 1. Change the text inside the title element so it says "*HTML Text Elements*".
 2. Create your webpage content using the reference below. Remember, all of the content on the page goes inside the `<body></body>` element.
@@ -71,11 +71,11 @@ In web design, it's common to see placeholder text that looks like fake Latin. T
 
 Click either the *Run* button or the *Refresh* button the see changes made to your web page. It should look something like this:
 
-![Sample webpage](/assets/img/activities/webpage-text-sample.png)
+![Sample webpage](/assets/img/web-design/activities/webpage-text-sample.png)
 
 Click the *open in a new tab* button to see your webpage in an actual browser tab. Notice the content on the page, as well as the text in the browser tab.
 
-![Sample webpage](/assets/img/activities/webpage-text-browser-sample.png)
+![Sample webpage](/assets/img/web-design/activities/webpage-text-browser-sample.png)
 
 
 ## Tips, Tricks, and Reflection

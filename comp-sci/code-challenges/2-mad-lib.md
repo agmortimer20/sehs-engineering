@@ -29,4 +29,4 @@ When the user plays the game, they should be able to enter some values, and read
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-2-mad-lib-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-2-mad-lib-sample.gif)

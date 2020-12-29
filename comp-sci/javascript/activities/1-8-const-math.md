@@ -33,7 +33,7 @@ With reference to PI, JavaScript provides built-in  math constants along with ot
     3. Select the first result.
     4. Click the green add package button to install the package.
 
-![Install readline-sync package](/assets/img/activities/js-install-npm-package-repl.gif)
+![Install readline-sync package](/assets/img/javascript/js-install-npm-package-repl.gif)
 
 ### Code
 

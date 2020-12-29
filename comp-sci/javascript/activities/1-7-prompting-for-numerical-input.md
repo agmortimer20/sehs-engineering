@@ -45,7 +45,7 @@ parseFloat("32.5") // "32.5" converts to 32. The decimal gets truncated.
     3. Select the first result.
     4. Click the green add package button to install the package.
 
-![Install readline-sync package](/assets/img/activities/js-install-npm-package-repl.gif)
+![Install readline-sync package](/assets/img/javascript/js-install-npm-package-repl.gif)
 
 ### Code
 

@@ -29,4 +29,4 @@ This calculator converts the user's height in inches and converts it to feet and
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-6-inches-to-height-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-6-inches-to-height-sample.gif)

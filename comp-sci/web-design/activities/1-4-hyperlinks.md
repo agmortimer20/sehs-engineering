@@ -53,7 +53,7 @@ An absolute path is simply the entire path to a location. For example, the absol
 
 **Correct folder structure**
 
-![File Structure](/assets/img/activities/hyperlink-file-structure.png)
+![File Structure](/assets/img/web-design/activities/hyperlink-file-structure.png)
 
 ### Instructions
 
@@ -125,7 +125,7 @@ An absolute path is simply the entire path to a location. For example, the absol
 
 ### Sample Web Page
 
-![Sample Webpage](/assets/img/activities/webpage-hyperlinks-sample.gif)
+![Sample Webpage](/assets/img/web-design/activities/webpage-hyperlinks-sample.gif)
 
 ## Tips, Tricks, and Reflection
 

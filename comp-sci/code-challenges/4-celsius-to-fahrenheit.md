@@ -28,4 +28,4 @@ If you want to be awesome, use the degree symbol in your output. Copy and paste 
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-4-cel-to-fahr-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-4-cel-to-fahr-sample.gif)

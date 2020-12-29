@@ -19,7 +19,7 @@ A table has the following structure
 
 ### Example
 
-![Table Sample](/assets/img/activities/web-design/table-example.png)
+![Table Sample](/assets/img/web-design/activities/table-example.png)
 
 ### New Elements
 
@@ -52,7 +52,7 @@ The table element describes a single table consisting of rows of data.
     </table>
 ```
 
-![Table Sample](/assets/img/activities/web-design/table-annotation.png)
+![Table Sample](/assets/img/web-design/activities/table-annotation.png)
 
 ----
 
@@ -181,7 +181,7 @@ The table data element represents a single piece of table data.
 
 ### Sample Web Page
 
-![Sample Webpage](/assets/img/activities/web-design/webpage-table-sample.png)
+![Sample Webpage](/assets/img/web-design/activities/webpage-table-sample.png)
 
 ## Tips, Tricks, and Reflection
 

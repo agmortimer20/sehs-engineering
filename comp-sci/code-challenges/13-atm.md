@@ -44,4 +44,4 @@ var balance = 500
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-13-atm.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-13-atm.gif)

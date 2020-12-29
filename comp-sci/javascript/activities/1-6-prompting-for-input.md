@@ -34,7 +34,7 @@ Here's the issue, Node.js does not provide the package for `readline.question()`
     > Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).
     4. Click the green add package button to install the package.
 
-![Install readline-sync package](/assets/img/activities/js-install-npm-package-repl.gif)
+![Install readline-sync package](/assets/img/javascript/js-install-npm-package-repl.gif)
 
 ### Code
 

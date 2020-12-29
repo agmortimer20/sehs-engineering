@@ -27,4 +27,4 @@ This program simulates flipping a coin many times and seeing how many flips resu
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-15-coin-flip.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-15-coin-flip.gif)

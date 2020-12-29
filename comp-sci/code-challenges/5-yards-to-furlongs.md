@@ -26,4 +26,4 @@ What is a furlong? Go figure it out, and solve this code challenge!
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-5-yards-to-furl-sample.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-5-yards-to-furl-sample.gif)

@@ -19,7 +19,7 @@ Something that can store many items in a collection are called **data structures
 
 **Array Sample**
 
-![Array Sample](/assets/img/activities/array-sample.png)
+![Array Sample](/assets/img/javascript/array-sample.png)
 
 
 ### Skills to Practice

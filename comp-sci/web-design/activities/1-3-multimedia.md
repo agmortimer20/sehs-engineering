@@ -61,7 +61,7 @@ These elements require two attributes to work properly: the `src` attribute and 
 This site makes use of various media assets. You will need to follow one of the steps below to set up your project.
 
 1. Create a fork of the following Repl workspace: [Multimedia Starter Site](https://repl.it/@AnthonyMortimer/Web-Design-Site-2-Multimedia)
-2. Alternatively, you can download this [zip file](/assets/asset-bundles/Web-Design-Site-2-Multimedia.zip) and set up your own workspace.
+2. Alternatively, you can download this [zip file](/assets/files/Web-Design-Activity-1-3-Multimedia.zip) and set up your own workspace.
 
 ### Instructions
 
@@ -114,7 +114,7 @@ This site makes use of various media assets. You will need to follow one of the 
 
 ### Sample Web Page
 
-![Sample Webpage](/assets/img/activities/webpage-multimedia-sample.png)
+![Sample Webpage](/assets/img/web-design/activities/webpage-multimedia-sample.png)
 
 
 ## Tips, Tricks, and Reflection

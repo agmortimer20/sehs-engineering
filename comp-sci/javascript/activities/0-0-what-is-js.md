@@ -37,4 +37,4 @@ Type the following line into the console and press *enter*:
 alert("Hello!")
 ```
 
-![JS Console Sample](/assets/img/activities/js-console-sample.gif)
+![JS Console Sample](/assets/img/javascript/js-console-sample.gif)

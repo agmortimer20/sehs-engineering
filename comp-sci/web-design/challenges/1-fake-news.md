@@ -30,4 +30,4 @@ In short, try to come up with a silly news article idea, but keep it school appr
 
 ### Sample Page
 
-<img src="/assets/img/challenges/web-challenge-1-sample.png" alt="sample output" title="sample output">
+![Sample Output](/assets/img/web-design/challenges/web-challenge-1-sample.png)

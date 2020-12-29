@@ -27,4 +27,4 @@ When a cashier performs transactions at a register, they quickly learn how to gi
 
 ### Sample Output
 
-<img src="/assets/img/challenges/challenge-7-change-calculator.gif" alt="sample output" title="sample output">
+![Sample Output](/assets/img/code-challenges/challenge-7-change-calculator.gif)
