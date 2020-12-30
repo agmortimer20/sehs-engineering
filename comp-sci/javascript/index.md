@@ -80,13 +80,22 @@ layout: page
 
 [5.1 JavaScript Objects](activities/5-1.html)
 
-
-<!-- ### Platforms and Tools -->
-<!-- ### NPM -->
-
 <!-- ### Clientside JavaScript -->
 
 <!-- ### Serverside JavaScript (Node.js) -->
 
+<!-- ### Node Package Manager -->
 
-<!-- ### Popular Libraries and Frameworks -->
+### Cool JavaScript Libraries and Frameworks
+
+[Electron - Desktop Applications](https://www.electronjs.org/)
+
+[Ionic - Mobile Applications](https://ionicframework.com/)
+
+[p5.js - HTML Canvas Animation](https://p5js.org/)
+
+[Three.js - Interactive 3D](https://threejs.org/)
+
+[Phaser - Game Development](https://phaser.io/)
+
+[D3.js - Data Visualization](https://d3js.org/)
