@@ -24,6 +24,8 @@ layout: page
 
 [1.6 Tables](activities/1-6.html)
 
+[1.7 Basic Forms](activities/1-7.html)
+
 <hr>
 
 ## Challenges
