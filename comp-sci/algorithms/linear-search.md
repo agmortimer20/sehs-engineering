@@ -4,7 +4,7 @@ layout: page
 
 [← Back](./)
 
-# Swap Algorithm
+# Linear Search Algorithm
 
 ## Introduction
 
