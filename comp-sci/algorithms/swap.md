@@ -44,4 +44,7 @@ var index2 = 4
 var temp = array[index1]
 array[index1] = array[index2]
 array[index2] = temp
+
+// Before swap: [1, 2, 3, 4, 5]
+// After swap: [5, 2, 3, 4, 1]
 {% endhighlight %}
