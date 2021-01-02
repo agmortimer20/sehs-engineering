@@ -10,6 +10,8 @@ layout: page
 
 ## Computer Science
 
+[Algorithms](/comp-sci/algorithms/)
+
 [Code Challenges](/comp-sci/code-challenges/)
 
 [JavaScript](comp-sci/javascript/)
