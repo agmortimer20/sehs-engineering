@@ -26,6 +26,8 @@ layout: page
 
 [1.7 Basic Forms](activities/1-7.html)
 
+[1.8 Miscellaneous HTML](activities/1-8.html)
+
 <hr>
 
 ## Challenges
