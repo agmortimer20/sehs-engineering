@@ -12,7 +12,6 @@ permalink: /comp-sci/javascript/activities/2-4
 The Boolean expressions we learned in the beginning of this section work for many scenarios, but sometimes we need more specific conditions. There are two Boolean operators that are commonly used to create more specific expressions.
 
 - **And operator** `&&` - *Both* sides of the expression must be true for the result to be true.
-
 - **Or operator** `||` - *At least one* side of the expression must be true for the result to be true.
 
 Think of the *and* `&&` operator as the stric operator between the two, and the *or* `||` operator as the more relaxed operator.

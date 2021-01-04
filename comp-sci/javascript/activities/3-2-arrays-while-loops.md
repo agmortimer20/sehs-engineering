@@ -168,5 +168,4 @@ Todo list:
 ## Tips, Tricks, and Reflection
 
 - When you finish, try refactoring, or improving the soda app so it's not hard-coded to five sodas. i.e. Let the user input as many sodas as they want, just like how to todo app lets the user type in as many todo items as they need.
-
 - You need to remember to pay close attention not to iterate past the last element of your array. In JavaScript, you will merely get a value of `undefined`, but in other languages, such as Python, C#, or Java, accessing an index that doesn't exist will crash the program.

@@ -139,5 +139,4 @@ Sleepy Anthony Mortimer for president! Coming 2020
 ## Tips, Tricks, and Reflection
 
 - There's an age range that's missing. If you type in 0 - 12, nothing happens. Add an if statement to fix this issue.
-
 - Indentation of code inside a block shows what code belongs to what section. Be consistent with your indentations, your code will be much more readable and maintainable.

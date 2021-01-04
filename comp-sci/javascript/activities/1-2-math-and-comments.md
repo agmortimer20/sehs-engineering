@@ -123,7 +123,5 @@ After splitting up the dollar, how many cents are left over?
 ## Tips, Tricks, and Reflection
 
 - Let's be honest, this program looks terrible. The math for each statement may correct, but it's hard to read. The division involving money returns a repeating decimal, every answer is on it's own line, and the monetary values don't have a dollar sign. These are called *formatting issues*, and we will learn how to make the output look better in future programs.
-
 - When writing math expressions in code, you don't have to have a space in between the numbers and signs. It is valid to write **2+2**, but I recommend writing **2 + 2** with the spaces in between.
-
 - Math signs `+ - * / %` are known as operators, and numbers used with operators are known as operands. When we write math statements they are called expressions.

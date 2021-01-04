@@ -77,5 +77,4 @@ Mr. Mortimer
 ## Tips, Tricks, and Reflection
 
 - What happens when you write console.log without a message in the parenthesis?
-
 - When you see JavaScript code elsewhere, you may notice each statement ends with a semicolon, like this `console.log();`. Many languages use this convention, but it is optional in JavaScript. For this course, we will omit the use of semicolons, but just be aware of them if you see them.

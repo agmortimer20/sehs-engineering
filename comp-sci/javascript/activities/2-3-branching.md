@@ -128,5 +128,4 @@ Your balance is now $1275.95.
 - Notice how many code blocks are used to create even a simple application. Be careful with the following formatting (You will thank me later):
     - Make sure all curly braces line up nicely.
     - Make sure code inside a code block is indented one tab.
-
 - Each demo applicatio only has one `else if` statement. Remember, you can have as many `else if` statements as you need.
