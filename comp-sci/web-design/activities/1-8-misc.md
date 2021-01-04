@@ -54,7 +54,7 @@ span {
 <p>Eiusmod laboris <span>ullamco occaecat ex proident id</span> exercitation magna ex cillum culpa velit est.</p>
 ```
 
-![Div Example](/assets/img/web-design/activities/span-example.png)
+![Span Example](/assets/img/web-design/activities/span-example.png)
 
 ----
 
