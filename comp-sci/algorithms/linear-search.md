@@ -12,6 +12,10 @@ The linear search is one of the two fundamental search algorithms in computer sc
 
 The element the algorithm is searching for is called the **key**. If a match is found, the *index* of the element is returned. If no match is found, the number *-1* is returned, which represents the idea of being *not found*.
 
+### CS50 Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwsgCHYmbbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Steps
 
 *Note*: These steps refer to searching through an array, but you can do the exact same steps with a list.
@@ -25,23 +29,16 @@ The element the algorithm is searching for is called the **key**. If a match is 
 
 ### Pseudocode
 
-*Note*: IB Pseudocode notation does not include function syntax, so we will use output statements and a boolean variable instead of a return statement.
-
 ```
-ARRAY = [...]
-KEY = ...
-FOUND = FALSE
+function linearSearch(ARRAY, KEY)
+    loop I from 0 to ARRAY.Length - 1
+        if ARRAY[I] == KEY
+            output KEY
+        end if
+    end loop
 
-loop I from 0 to ARRAY.LENGTH - 1
-    if ARRAY[I] == KEY
-        output KEY
-        FOUND = true
-    end if
-end loop
-
-if NOT FOUND
-    output -1
-end if
+    return -1
+end function
 ```
 
 ### Example in JavaScript

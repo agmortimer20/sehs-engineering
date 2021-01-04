@@ -24,6 +24,7 @@ The swap algorithm is a simple solution for swapping the positions of two elemen
 ### Pseudocode
 
 ```
+// ... = some value
 ARRAY = [...]
 INDEX1 = ...
 INDEX2 = ...
