@@ -1,14 +1,5 @@
----
-layout: page
-permalink: /events/reaction
----
-
-[← Back](../)
-
-# Reaction Timer Code
-
-```c++
-unsigned int waitTime;   //random wait time before                         //turning on LED
+unsigned int waitTime;   //random wait time before
+                         //turning on LED
 unsigned int startTime;  //zero reference time
 unsigned int reactTime;  //calculated reaction time
 
@@ -17,13 +8,10 @@ void setup()
   Serial.begin(9600);  //sets up serial
   pinMode(13, OUTPUT); //sets pin 13 as an OUTPUT for the 
                        //stimulus LED
-  //sets pins 12, 11, 10, and 9 as OUTPUTs for the indicator
-  //bar graph
-  pinMode(12, OUTPUT); 
-  pinMode(11, OUTPUT); 
-  pinMode(10, OUTPUT); 
-  pinMode(9, OUTPUT); 
-  
+  pinMode(12, OUTPUT); //sets pin 12 as an OUTPUT for the
+                       //green LED
+  pinMode(11, OUTPUT); //sets pin 11 as an OUTPUT for the
+                       //red LED 
   pinMode(3, INPUT);   //sets pin 3 as an INPUT for the
                        //button
 }
@@ -53,31 +41,13 @@ void loop()
 
   if (reactTime <= 215)
   {
-    digitalWrite(12, HIGH);  
-    digitalWrite(11, HIGH);   
-    digitalWrite(10, HIGH);   
-    digitalWrite(9, HIGH);   
-  }
-  else if (reactTime <= 250)
-  {
-    digitalWrite(12, LOW);   
-    digitalWrite(11, HIGH);  
-    digitalWrite(10, HIGH);  
-    digitalWrite(9, HIGH);  
-  }
-  else if (reactTime <= 300)
-  {
-    digitalWrite(12, LOW);   
-    digitalWrite(11, LOW);  
-    digitalWrite(10, HIGH);  
-    digitalWrite(9, HIGH);  
+    digitalWrite(12, HIGH);  //green LED ON
+    digitalWrite(11, LOW);   //red LED OFF
   }
   else
   {
-    digitalWrite(12, LOW);   
-    digitalWrite(11, LOW);  
-    digitalWrite(10, LOW);  
-    digitalWrite(9, HIGH);  
+    digitalWrite(12, LOW);   //green LED OFF
+    digitalWrite(11, HIGH);  //red LED ON
   }
   
   //display information to Serial Monitor 
@@ -86,4 +56,3 @@ void loop()
   Serial.println("milliseconds");
   delay(1000);    //short delay before starting again 
 }
-```
