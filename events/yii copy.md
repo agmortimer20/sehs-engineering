@@ -1,3 +1,13 @@
+---
+layout: page
+permalink: /events/reaction
+---
+
+[← Back](../)
+
+# Reaction Timer Code
+
+```c++
 unsigned int waitTime;   //random wait time before
                          //turning on LED
 unsigned int startTime;  //zero reference time
@@ -56,3 +66,4 @@ void loop()
   Serial.println("milliseconds");
   delay(1000);    //short delay before starting again 
 }
+```
